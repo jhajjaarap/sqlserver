@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"gorm.io/driver/sqlserver"
+	"github.com/jhajjaarap/sqlserver"
 	"gorm.io/gorm"
 )
 
